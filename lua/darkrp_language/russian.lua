@@ -260,9 +260,9 @@ local my_language = {
     talk = "разговор",
     speak = "голос",
 
-    speak_in_ooc = "разговор глобальный чат",
+    speak_in_ooc = "разговор (глобальный чат)",
     perform_your_action = "разговор (совершение действия)",
-    talk_to_your_group = "разговор группе",
+    talk_to_your_group = "разговор (групповой чат)",
 
     channel_set_to_x = "Установлен канал %s!",
     channel = "канал",
