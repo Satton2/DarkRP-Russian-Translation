@@ -209,7 +209,7 @@ local my_language = {
     pocket_no_items = "В вашем кармане нет предметов.",
     drop_item = "Бросить предмет",
 
-    bonus_destroying_entity = "уничтожение этого нелегального предмета	",
+    bonus_destroying_entity = "уничтожение этого нелегального предмета",
 
     switched_burst = "Выбран режим стрельбы очередями.",
     switched_fully_auto = "Выбран автоматический режим стрельбы.",
@@ -220,8 +220,8 @@ local my_language = {
     keypad_checker_click_to_clear = "Нажмите правую кнопку мыши, чтобы убрать выделение.",
     keypad_checker_entering_right_pass = "Ввод правильного пароля",
     keypad_checker_entering_wrong_pass = "Ввод неправильного пароля",
-    keypad_checker_after_right_pass = "после введения правильного пароля",
-    keypad_checker_after_wrong_pass = "после введения неправильного пароля",
+    keypad_checker_after_right_pass = "после ввода правильного пароля",
+    keypad_checker_after_wrong_pass = "после ввода неправильного пароля",
     keypad_checker_right_pass_entered = "Ввод правильного пароля",
     keypad_checker_wrong_pass_entered = "Ввод неправильного пароля",
     keypad_checker_controls_x_entities = "Объектов, контролируемых этим кейпадом: %d",
@@ -342,7 +342,7 @@ local my_language = {
     gunlicense_denied = "%s не выдаёт оружейную лицензию %s",
     gunlicense_question_text = "Выдать оружейную лицензию %s?",
     gunlicense_remove_vote_text = "%s начинает голосование о лишении %s оружейной лицензии",
-    gunlicense_remove_vote_text2 = "Причина лишения:\n%s", -- где %s является причиной
+    gunlicense_remove_vote_text2 = "Лишаемый:\n%s", -- где %s является причиной
     gunlicense_removed = "%s лишается оружейной лицензии!",
     gunlicense_not_removed = "%s не лишается оружейной лицензии!",
     vote_specify_reason = "Вы должны указать причину!",
@@ -396,7 +396,7 @@ local my_language = {
     you_set_x_name = "Вы изменили ролевое имя %s на %s",
     x_set_your_name = "%s меняет ваше ролевое имя на %s",
 
-    someone_stole_steam_name = "Кто-то уже использует ваше имя пользователя в качестве ролевого имени, поэтому мы добавили '1' после вашего имени.", -- Uh oh
+    someone_stole_steam_name = "Ваше имя пользователя уже кем-то используется в качестве ролевого имени, поэтому к вашему приписано '1'.",
     already_taken = "Уже кем-то используется.",
 
     job_doesnt_require_vote_currently = "Для этой работы не требуется голосование!",
@@ -551,13 +551,13 @@ local my_language = {
     -- Вкладка 2
     job_name = "Имя: ",
     job_description = "Описание: ",
-    job_weapons = "Работа: ",
+    job_weapons = "Оружие: ",
 
     -- Вкладка энтити
     buy_a = "Купить %s: %s",
 
-    -- Вкладка легальных предметов
-    license_tab = [[Легальные предметы
+    -- Вкладка легального оружия
+    license_tab = [[Легальное оружие
 
     Отметьте оружие, которое люди могут получить без лицензии!
     ]],
