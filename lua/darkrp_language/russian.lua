@@ -459,7 +459,7 @@ local my_language = {
     accept_hit_question = "Принять заказ от %s\nна %s за %s%d?", -- обратная совместимость
     accept_hit_request = "Принять заказ от %s\nна %s за %s?",
     hit_requested = "Заказ запрошен!",
-    hit_aborted = "Заказ отменён! %s",
+    hit_aborted = "Заказ прерван! %s",
     hit_accepted = "Заказ принят!",
     hit_declined = "Наёмный убийца не принял заказ!",
     hitman_left_server = "Наёмный убийца покинул сервер!",
@@ -474,6 +474,9 @@ local my_language = {
     hitman_changed_team = "Наёмный убийца сменил работу!",
     x_had_hit_ordered_by_y = "%s уже выполняет заказ от %s",
     place_a_hit = "заказать убийство!",
+    hit_cancel = "отмену заказа!",
+    hit_cancelled = "Заказ отменён!",
+    no_active_hit = "Нет активных заказов!",
 
     -- Ограничения на голосования
     hobos_no_rights = "Нищие не могут голосовать!",
