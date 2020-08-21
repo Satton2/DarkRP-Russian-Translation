@@ -522,7 +522,7 @@ local my_language = {
     go_to_sleep = "Заснуть или проснуться",
     drop_weapon = "Выбросить текущее оружие",
     buy_health = "Купить здоровье (%s)",
-    request_gunlicense = "Запросить оружейную лицензиюRequest gunlicense",
+    request_gunlicense = "Запросить лицензию на оружие",
     demote_player_menu = "Уволить игрока",
 
     searchwarrantbutton = "Отправить игрока в розыск",
@@ -541,7 +541,7 @@ local my_language = {
     initiate_lockdown = "Начать комендантский час",
     stop_lockdown = "Закончить комендантский час",
     start_lottery = "Начать лотерею",
-    give_license_lookingat = "Дать оружейную лицензию <lookingat>",
+    give_license_lookingat = "Выдать лицензию на оружие (на кого смотрите)",
 
     laws_of_the_land = "ЗАКОНЫ ГОРОДА",
     law_added = "Закон добавлен.",
