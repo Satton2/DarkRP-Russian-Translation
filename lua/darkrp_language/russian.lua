@@ -408,12 +408,14 @@ local my_language = {
     -- Лотерея
     lottery_started = "Лотерея! Участвовать за %s%d?", -- обратная совместимость
     lottery_has_started = "Лотерея! Участвовать за %s?",
-    lottery_entered = "Вы приняли участие в лотерее за %s",
-    lottery_not_entered = "%s не участвует в лотерее",
-    lottery_noone_entered = "Никто не участвовал в лотерее",
-    lottery_won = "%s выигрывает лотерею! Выигрыш составил %s",
+    lottery_entered = "Вы приняли участие в лотерее за %s.",
+    lottery_not_entered = "%s не участвует в лотерее.",
+    lottery_noone_entered = "Никто не участвовал в лотерее.",
+    lottery_won = "%s выигрывает в лотерее! Выигрыш составил %s.",
     lottery = "лотерея",
-    lottery_please_specify_an_entry_cost = "Укажите сумму для участия ($%i-%i)",
+    lottery_please_specify_an_entry_cost = "Укажите сумму для участия (%s-%s).",
+    too_few_players_for_lottery = "Недостаточно игроков для начала лотереи. Требуется как минимум %d игрока.",
+    lottery_ongoing = "Невозможно начать лотерею, поскольку она уже проводится.",
 
     -- Анимации
     custom_animation = "Анимации!",
