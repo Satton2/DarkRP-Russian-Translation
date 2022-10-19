@@ -47,7 +47,7 @@ local my_language = {
     profit = "прибыли",
     loss = "убытка",
     Donate = "Пожертвовать",
-    you_donated = "Вы пожертвовали %s to %s!",
+    you_donated = "Вы пожертвовали %s игроку %s!",
     has_donated = "%s жертвует %s!",
 
     -- обратная совместимость
