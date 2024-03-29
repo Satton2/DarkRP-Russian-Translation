@@ -232,10 +232,10 @@ local my_language = {
     keypad_off = "ВЫКЛ",
     seconds = "сек.",
 
-    persons_weapons = "Нелегальные предметы %s:",
+    persons_weapons = "Предметы %s:",
     returned_persons_weapons = "Конфискованные предметы %s возвращены.",
     no_weapons_confiscated = "У %s ничего не конфисковано!",
-    no_illegal_weapons = "У %s нет нелегальных предметов.",
+    no_illegal_weapons = "У %s нет предметов.",
     confiscated_these_weapons = "Конфискованные предметы:",
     checking_weapons = "Конфискация предметов",
 
